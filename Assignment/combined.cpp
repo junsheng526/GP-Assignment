@@ -10,7 +10,7 @@ float dif[] = { 1.0, 1.0, 1.0 };
 float DLightx = 0.0;
 float DLighty = 1.0;
 float DLightz = 0.0;
-float posD[] = { DLightx, DLighty, DLightz }; //white diffuse light 
+float posD[] = { DLightx, DLighty, DLightz }; //white diffuse ligh
 bool isLightOn = false;
 
 //Turning Robot 
